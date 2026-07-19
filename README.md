@@ -36,3 +36,7 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+
+## Prerequities
+- Ansible 2.14 or later
+- Python 3.10+
